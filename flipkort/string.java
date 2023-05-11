@@ -1,1 +1,0 @@
-thise is string file
